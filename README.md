@@ -101,7 +101,3 @@ FINISH_X = 260          # finish line X position
 
 If you like this project, ⭐️ the repo and share it with friends!
 
----
-
-## 🏁 License
-This project is licensed under the **MIT License** — you can freely use, modify, and share it.
