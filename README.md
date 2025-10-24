@@ -13,12 +13,6 @@ This project helps you learn:
 - Graphics and animations using the `turtle` module
 - Basic game loop and condition checking
 
----
-
-## 📸 Screenshot / Demo
-*(Add your screenshot or GIF here)*  
-Example:
-![Turtle Racing Game Screenshot](images/demo.png)
 
 ---
 
